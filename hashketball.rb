@@ -1,5 +1,6 @@
 #top level of hash has two keys (:home => {} and :away => {})
-=begin {
+=begin 
+{
 :home => {
     :team_name => ""
     :colors => ["", ""]
@@ -30,8 +31,11 @@
         {:slam_dunks => ""}
         ]
 }
-} =end
+} 
+
+=end
 
 def game_hash
+  {}
   
 end
